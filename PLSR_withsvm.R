@@ -1,7 +1,7 @@
 # METADATA / GOALS ###########################################################################################################
 #für texture messungen
 
-#net weightxyxyyxddasd
+#net weightxyxyyxddasdfsdf
 # PACKAGES #############################################################
 rm(list=ls())
 require(compiler)
